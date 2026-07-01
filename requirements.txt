@@ -1,0 +1,8 @@
+fireworks-ai
+openai
+python-dotenv
+pandas
+matplotlib
+seaborn
+sentence-transformers
+torch
