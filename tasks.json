@@ -1,0 +1,10 @@
+[
+  {"prompt": "What is 12 * 4?", "expected_answer": 48},
+  {"prompt": "Hello!", "expected_answer": null},
+  {"prompt": "1 + 1", "expected_answer": 2},
+  {"prompt": "Good morning!", "expected_answer": null},
+  {"prompt": "Explain the impact of quantum computing on cryptography.", "expected_answer": null},
+  {"prompt": "How do I bake a chocolate cake?", "expected_answer": null},
+  {"prompt": "What is 100 / 4?", "expected_answer": 25},
+  {"prompt": "Write a Python function to reverse a string.", "expected_answer": null}
+]
